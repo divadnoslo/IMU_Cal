@@ -1,0 +1,1 @@
+The IMU we are using in our project is IMU 1 and the other IMU is IMU 0.
